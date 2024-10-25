@@ -1,0 +1,13 @@
+{
+  "cSpell.words": ["librosa", "psola"],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".venv": true
+  },
+  "hide-files.files": [".venv"]
+}

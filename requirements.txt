@@ -1,0 +1,7 @@
+librosa == 0.10.2
+numpy == 2.0.2
+scipy == 1.14.1
+psola == 0.0.1
+soundfile == 0.12.1
+matplotlib == 3.9.2
+ipykernel == 6.29.5
